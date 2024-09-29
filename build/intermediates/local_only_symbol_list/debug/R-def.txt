@@ -1,0 +1,14 @@
+R_DEF: Internal format may change without notice
+local
+attr? awv_centerTextColor
+attr? awv_dividerTextColor
+attr? awv_initialPosition
+attr? awv_isCurve
+attr? awv_isLoop
+attr? awv_itemsVisibleCount
+attr? awv_lineSpace
+attr? awv_outerTextColor
+attr? awv_scaleX
+attr? awv_textsize
+attr? skaiper_fontFamily
+styleable LoopView awv_textsize awv_lineSpace awv_centerTextColor awv_outerTextColor awv_dividerTextColor awv_itemsVisibleCount awv_isLoop awv_isCurve awv_initialPosition awv_scaleX skaiper_fontFamily
